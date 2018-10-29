@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "862838267734",
+    "firebase_url": "https://dscfirebaseproject-aa94f.firebaseio.com",
+    "project_id": "dscfirebaseproject-aa94f",
+    "storage_bucket": "dscfirebaseproject-aa94f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862838267734:android:ce33053f07534aad",
+        "android_client_info": {
+          "package_name": "com.example.harjacober.dsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862838267734-a49a3d13gmpn7d8ppv3rvdvaqulvaqqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harjacober.dsc",
+            "certificate_hash": "9607b87eebebafa959e91dbe6b937ab612322ce6"
+          }
+        },
+        {
+          "client_id": "862838267734-g1onrithosrmik00h45cmfv1vd6k02uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy8GoyZwfz8Rj84LkAg1ttcN25j5uv9TU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862838267734-g1onrithosrmik00h45cmfv1vd6k02uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
